@@ -1,7 +1,7 @@
 ## Welcome <br/> Hi there! I'am Luis Arteaga 👋
 
 
-## <section> <h2>About me</h2> </section>
+## <section> <h2 style="font-size:18px;">About me</h2> </section>
 <!--
 **luisart3/luisart3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
