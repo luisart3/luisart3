@@ -1,7 +1,7 @@
 # Hi there! Welcome 👋
-I'm glad to see you here
-- 🎯 Passionate about technology, website design, creating intuitive and efficient interfaces.
-- 🚀 Always eager to expand my skillset, I'm currently delving into Digital Marketing, mastering new entrepreneurial strategies, ad campaigns, and tools like Facebook and Canva. My quick learning ability ensures I'm always embracing new challenges and knowledge."
+- I'm glad to see you here
+🎯 Passionate about technology, website design, creating intuitive and efficient interfaces.
+🚀 Always eager to expand my skillset, I'm currently delving into Digital Marketing, mastering new entrepreneurial strategies, ad campaigns, and tools like Facebook and Canva. My quick learning ability ensures I'm always embracing new challenges and knowledge."
 ## 🧠 What interests me
 - Designer web
 - Front-end UX
