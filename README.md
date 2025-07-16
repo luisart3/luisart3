@@ -11,7 +11,7 @@ I'm glad to see you here
 
 ## 🔧 Tools and Technologies
 - Facebook Ads | Canva | IA
-- HTML | CSS | Javascript | Figma | Genexus | MSSQL | MySql | Git | Azure | Azure DevOps | VS Code
+- HTML | CSS | Javascript | Figma | Genexus | MSSQL | MySQL | Git | Azure | Azure DevOps | VS Code
 
 
 ## 📫 Connect with me
