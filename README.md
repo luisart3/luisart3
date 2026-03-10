@@ -1,11 +1,13 @@
 -  ✨
--  Frontend UI Developer especializado en construir interfaces modernas a partir de sistemas de diseño y componentes reutilizables.
+<p>
+  Frontend UI Developer especializado en construir interfaces modernas a partir de sistemas de diseño y componentes reutilizables.
 
 Me enfoco en transformar ideas y diseños en experiencias claras, rápidas y bien estructuradas, cuidando tanto la calidad visual como la arquitectura del código.
 
 Trabajo principalmente con React, TypeScript, Tailwind CSS y herramientas modernas del ecosistema frontend para desarrollar interfaces escalables y mantenibles.
 
 Me interesa especialmente el desarrollo de Design Systems, UI engineering y la creación de experiencias web pulidas y eficientes.
+</p>
 
 
 <!--
