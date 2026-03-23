@@ -1,6 +1,6 @@
 <div align="center">
-  <h2 style="font-weight:semibold;">🌞 Hey, soy Luis Arteaga </h2>
-  <p style="margin-top:5px;"> 🔥 Desarollador Frontend UI</p>
+  <h2 style="font-weight:semibold;"> Luis Arteaga </h2>
+  <p style="margin-top:5px; text-color: #ad46ff">  Desarollador Frontend UI</p>
 </div>
 
 ## About
