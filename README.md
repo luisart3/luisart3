@@ -1,4 +1,6 @@
 ## ✨ Hey, soy Luis Arteaga 
+
+## About
 <p>
   Frontend UI Developer especializado en construir interfaces modernas a partir de sistemas de diseño y componentes reutilizables.
 
@@ -21,7 +23,7 @@ Mi tecnologias favoritas
 - VS Code
 - MySql
 
-# 
+# 📬 Contacto
   luis01.dev@gmail.com
 
 
