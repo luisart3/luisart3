@@ -22,8 +22,10 @@ Mi tecnologias favoritas
 - MySql
 
 # 
+<div aling:"center">
+  luis01.dev@gmail.com
+</div>
 
-- luis01.dev@gmail.com
 
 
 <!--
