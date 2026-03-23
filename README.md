@@ -1,4 +1,4 @@
--  ✨ Hey, soy Luis Arteaga 
+## ✨ Hey, soy Luis Arteaga 
 <p>
   Frontend UI Developer especializado en construir interfaces modernas a partir de sistemas de diseño y componentes reutilizables.
 
