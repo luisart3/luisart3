@@ -21,8 +21,8 @@ Mi tecnologias favoritas
 - VS Code
 - MySql
 
-# 📬 Contacto
-correo
+# 
+
 - luis01.dev@gmail.com
 
 
