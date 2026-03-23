@@ -1,4 +1,6 @@
-## ✨ Hey, soy Luis Arteaga 
+<div align="center">
+  Hey, soy Luis Arteaga 
+</div>
 
 ## About
 <p>
