@@ -9,7 +9,7 @@ Trabajo principalmente con React, TypeScript, Tailwind CSS y herramientas modern
 Me interesa especialmente el desarrollo de Design Systems, UI engineering y la creación de experiencias web pulidas y eficientes.
 </p>
 
-## Stack tecnologico 
+## ⚡Stack tecnologico 
 Mi tecnologias favoritas 
 - Vite
 - Vue
@@ -21,7 +21,7 @@ Mi tecnologias favoritas
 - VS Code
 - MySql
 
-# Contacto
+# 📬 Contacto
 correo
 - luis01.dev@gmail.com
 
