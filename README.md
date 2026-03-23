@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hey, soy Luis Arteaga 
+  <h2 style="font-weight:semibold;">Hey, soy Luis Arteaga </h2>
 </div>
 
 ## About
