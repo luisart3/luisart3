@@ -22,7 +22,7 @@ Mi tecnologias favoritas
 - MySql
 
 # Contacto
-
+correo
 - luis01.dev@gmail.com
 
 
