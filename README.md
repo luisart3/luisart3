@@ -16,15 +16,15 @@ Me interesa especialmente el desarrollo de Design Systems, UI engineering y la c
 
 ## ⚡Stack tecnológico  
 ![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark)
-![Taildwind](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
+![Taildwind](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark)
 ![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark)
-![React](https://svgl-badge.vercel.app/api/Library/React?theme=light)
-![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=light)
-![Figma](https://svgl-badge.vercel.app/api/Design/Figma?theme=light)
-![Git](https://svgl-badge.vercel.app/api/Software/Git?theme=light)
-![VSCode](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=light)
-![MySQL](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light)
-![PHP](https://svgl-badge.vercel.app/api/Language/Php?theme=light)
+![React](https://svgl-badge.vercel.app/api/Library/React?theme=dark)
+![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=dark)
+![Figma](https://svgl-badge.vercel.app/api/Design/Figma?theme=dark)
+![Git](https://svgl-badge.vercel.app/api/Software/Git?theme=dark)
+![VSCode](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark)
+![MySQL](https://svgl-badge.vercel.app/api/Database/MySQL?theme=dark)
+![PHP](https://svgl-badge.vercel.app/api/Language/Php?theme=dark)
 
 
 # 📬 Contacto
