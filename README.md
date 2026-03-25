@@ -20,7 +20,7 @@ Mi tecnologias favoritas
 - Vue
 - Taildwind CSS
 - React
-- ![](https://svgl-badge.vercel.app/api/Library/React?theme=light)
+- ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light)
 - Framer Motion
 - Figma
 - Git
