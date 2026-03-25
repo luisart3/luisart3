@@ -16,15 +16,17 @@ Me interesa especialmente el desarrollo de Design Systems, UI engineering y la c
 
 ## ⚡Stack tecnologico 
 Mi tecnologias favoritas 
-- Vite
-- Vue
-- Taildwind CSS
+![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=light)
+![Taildwind](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
+![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=light)
 ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light)
-- Framer Motion
-- Figma
-- Git
-- VS Code
-- MySql
+![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=light)
+![Figma](https://svgl-badge.vercel.app/api/Design/Figma?theme=light)
+![Git](https://svgl-badge.vercel.app/api/Software/Git?theme=light)
+![VSCode](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=light)
+![MySQL](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light)
+![PHP](https://svgl-badge.vercel.app/api/Language/Php?theme=light)
+
 
 # 📬 Contacto
   luis01.dev@gmail.com
