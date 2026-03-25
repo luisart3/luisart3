@@ -14,8 +14,7 @@ Trabajo principalmente con React, TypeScript, Tailwind CSS y herramientas modern
 Me interesa especialmente el desarrollo de Design Systems, UI engineering y la creación de experiencias web pulidas y eficientes.
 </p>
 
-## ⚡Stack tecnologico 
-Mi tecnologias favoritas 
+## ⚡Stack tecnológico  
 ![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=light)
 ![Taildwind](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
 ![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=light)
