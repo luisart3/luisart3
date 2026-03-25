@@ -1,8 +1,3 @@
-<div align="center">
-  <h2 style="font-weight:semibold;"> Luis Arteaga </h2>
-  <p style="margin-top:5px;">  Desarollador Frontend UI</p>
-</div>
-
 
 ![Preview](https://github.com/luisart3/luisart3/blob/main/preview.png)
 
