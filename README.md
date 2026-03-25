@@ -15,9 +15,9 @@ Me interesa especialmente el desarrollo de Design Systems, UI engineering y la c
 </p>
 
 ## ⚡Stack tecnológico  
-![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=light)
+![Vite](https://svgl-badge.vercel.app/api/Devtool/Vite?theme=dark)
 ![Taildwind](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
-![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=light)
+![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark)
 ![React](https://svgl-badge.vercel.app/api/Library/React?theme=light)
 ![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=light)
 ![Figma](https://svgl-badge.vercel.app/api/Design/Figma?theme=light)
