@@ -19,6 +19,7 @@ Me interesa especialmente el desarrollo de Design Systems, UI engineering y la c
 ![Taildwind](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark)
 ![Vue](https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark)
 ![React](https://svgl-badge.vercel.app/api/Library/React?theme=dark)
+![TypeScript](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark)
 ![Motion](https://svgl-badge.vercel.app/api/Library/Motion?theme=dark)
 ![Figma](https://svgl-badge.vercel.app/api/Design/Figma?theme=dark)
 ![Git](https://svgl-badge.vercel.app/api/Software/Git?theme=dark)
