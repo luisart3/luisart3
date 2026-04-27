@@ -25,8 +25,6 @@ Me interesa especialmente el desarrollo de Design Systems, UI engineering y la c
 ![VSCode](https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark)
 ![MySQL](https://svgl-badge.vercel.app/api/Database/MySQL?theme=dark)
 ![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=dark)
-![Bun](https://svgl-badge.vercel.app/api/Library/Bun?theme=dark)
-![Nodejs](https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark)
 ![Nodejs](https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark)
 ![Claude](https://svgl-badge.vercel.app/api/AI/Claude%20AI?theme=dark)
 
